@@ -1,1 +1,1 @@
-# -cerikY-netimi
+# IcerikYonetimi
